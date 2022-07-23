@@ -5,4 +5,7 @@ public class Demo {
         System.out.println("hello 666");
         System.out.println("hello 888");
     }
+    public void test(){
+        //这是一个方法
+    }
 }
